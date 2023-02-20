@@ -9,3 +9,4 @@ A general DC drive actuator with OpenCyphal over CAN interface
 * Quadrature encoder input
 * Status LEDs
 * CAN connectors JST-GH and DSUB
+* Emergency stop as opening switch
